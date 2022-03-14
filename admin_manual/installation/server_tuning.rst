@@ -127,7 +127,7 @@ For more details check out the `official documentation <https://php.net/manual/e
 Previews
 --------
 
-It is possible to increase the speed of the preview generation using an
+It is possible to speed up preview generation using an
 external microservice: `Imaginary <https://github.com/h2non/imaginary>`.
 
 To do so, you will need to deploy the service and make sure that it is
